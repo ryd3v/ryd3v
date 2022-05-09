@@ -22,7 +22,7 @@
     <tr>
       <th>🏞️</th>
       <th>Currently live near</th>
-      <td><img src="https://discordapp.com/api/guilds/750907551633375234/widget.png?style=banner2"></td>
+      <td><a href="https://discord.gg/TBAQ4UwsXK"><img src="https://discordapp.com/api/guilds/750907551633375234/widget.png?style=banner2"></a></td>
     </tr>
   </table>
 </div>
