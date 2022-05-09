@@ -19,5 +19,10 @@
       <th>Experienced with</th>
       <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
     </tr>
+    <tr>
+      <th>🏞️</th>
+      <th>Currently live near</th>
+      <td><img src="https://discordapp.com/api/guilds/750907551633375234/widget.png?style=banner2"></td>
+    </tr>
   </table>
 </div>
