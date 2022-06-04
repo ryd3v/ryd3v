@@ -6,7 +6,7 @@
   <tr>
     <th>👩</th>
     <th>My name is</th>
-    <td><img src="https://img.shields.io/badge/-Kana%20Maharani%20Candrakanti-blue?style=flat"> or <img src="https://img.shields.io/badge/-Ry-red?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/-Kalina%20Aryani%20Gandeswara-blue?style=flat"> or <img src="https://img.shields.io/badge/-Ry-red?style=flat"></td>
   </tr>
   <tr>
     <th>♀️</th>
