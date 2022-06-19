@@ -11,7 +11,7 @@
   <tr>
     <th>♀️</th>
     <th>My pronoun are</th>
-    <td>She/her</td>
+    <td>She/any</td>
   </tr>
   <tr>
     <th>👩‍💻</th>
